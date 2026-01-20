@@ -21,6 +21,7 @@ sales-analytics-system/
 ├── data/
 │ └── sales_data.txt
 ├── output/
+| └── report.txt
 └── requirements.txt
 
 ---
