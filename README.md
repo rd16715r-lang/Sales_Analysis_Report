@@ -11,7 +11,6 @@ The project is structured in a modular way to separate concerns such as file han
 ---
 
 ## Project Structure
-sales-analytics-system/
 ├── README.md
 ├── main.py
 ├── utils/
