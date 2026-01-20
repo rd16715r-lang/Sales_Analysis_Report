@@ -1,0 +1,76 @@
+============================================
+           SALES ANALYTICS REPORT
+         Generated: 2026-01-18 14:30:22
+         Records Processed: 95
+============================================
+
+OVERALL SUMMARY
+--------------------------------------------
+Total Revenue:        ₹15,45,000.00
+Total Transactions:   95
+Average Order Value:  ₹16,263.16
+Date Range:           2024-12-01 to 2024-12-31
+
+
+REGION-WISE PERFORMANCE
+--------------------------------------------
+Region    Sales         % of Total  Transactions
+North     ₹4,50,000     29.13%      25
+South     ₹3,80,000     24.60%      22
+East      ₹3,10,000     20.06%      20
+West      ₹2,80,000     18.12%      18
+
+
+TOP 5 PRODUCTS
+--------------------------------------------
+Rank  Product Name      Quantity Sold  Revenue
+1     Laptop            45             ₹22,50,000
+2     Mouse             38             ₹19,000
+3     Keyboard          30             ₹45,000
+4     Monitor           25             ₹2,50,000
+5     Headphones        20             ₹30,000
+
+
+TOP 5 CUSTOMERS
+--------------------------------------------
+Rank  Customer ID  Total Spent    Order Count
+1     C001         ₹95,000        3
+2     C014         ₹88,500        4
+3     C023         ₹82,000        2
+4     C009         ₹76,000        3
+5     C031         ₹69,500        2
+
+
+DAILY SALES TREND
+--------------------------------------------
+Date         Revenue      Transactions  Unique Customers
+2024-12-01   ₹1,25,000    8             6
+2024-12-02   ₹98,000      6             5
+2024-12-03   ₹1,10,000    7             6
+2024-12-04   ₹1,85,000    12            9
+
+
+PRODUCT PERFORMANCE ANALYSIS
+--------------------------------------------
+Best Selling Day: 2024-12-15 (₹1,85,000)
+
+Low Performing Products:
+Webcam (Quantity: 4, Revenue: ₹12,000)
+Headphones (Quantity: 7, Revenue: ₹10,500)
+
+Average Transaction Value Per Region:
+North: ₹18,000
+South: ₹17,200
+East:  ₹15,500
+West:  ₹14,800
+
+
+API ENRICHMENT SUMMARY
+--------------------------------------------
+Total Products Enriched: 68
+Success Rate: 85.00%
+
+Products Not Enriched:
+Webcam
+External HDD
+USB Hub
