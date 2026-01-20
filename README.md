@@ -10,7 +10,7 @@ The project is structured in a modular way to separate concerns such as file han
 
 ---
 
-## Project Structure
+## Repository Structure
 ├── README.md
 ├── main.py
 ├── utils/
